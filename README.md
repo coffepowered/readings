@@ -63,9 +63,11 @@ Italian and English are freely mixed here, since it that helps me retain what I 
     - Analisi per coorti di pacchetti hostati su PyPI 2014-2024: il numero di rilasci è aumentato, ma meno di quanto si pensi (20-50%, stimo dai grafici)
     - La maggior parte degli update sembra concentrata in pacchetti "AI"
 - **Thoughts**: 
-    - Un pezzo di stretta attualità. Chissa cosa sopravviverà di queste considerazioni tra 2 anni?
     - Considerazioni: una volta passato questo **boom** torneremo a renderci conto che una libreria affidabile e testata è "foundational" per essere produttivi come sw developer. Le LoC e il numero di pacchetti sono solo proxy parziali
     - Una delle possibili interpretazioni è che l'AI ci aiuti a mantenere ed aggiornare il software esistente. Gli autori invece suggeriscono che negli ultimi anni stiamo scrivendo tanto software... per utilizzare l'AI stessa. Come riporta il blog "an enormous amount of funding and enthusiasm has flowed into AI".
+    - Un pezzo di stretta attualità. Chissà cosa sopravviverà di queste considerazioni tra 2 anni?
+    - Non mi è del tutto chiaro il titolo: non mi aspetto in di trovare "AI apps" su PyPI.
+
 
 <details>
 
