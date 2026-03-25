@@ -7,7 +7,7 @@ Italian and English are freely mixed here, since it that helps me retain what I 
 
 ## Entries
 
-### [Effective context engineering for AI agents](...)  
+### [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)  
 #### letto il: `2026-03-26`, autore: Anthropic
 
 > Questo blog è un catalogo di tecniche / patterns utili. I blog di Anthropic creano una terminologia condivisa con convenzioni de facto che aiutano a descrivere il comportamento dei sistemi agentici. 
@@ -52,6 +52,31 @@ Italian and English are freely mixed here, since it that helps me retain what I 
 
 
 
+### [So, where are all the AI apps?](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)  
+#### letto il: `2026-03-25`, autori: Alexis Gallagher & Rens Dimmendaal (Answer.ai)
+
+
+> *Perché l'ho letto:* Mi piace l'ecosistema Python e il tema "produttività dello sviluppo con AI"
+
+- **Takeaways**:
+    - il numero di pacchetti hostati e il numero di pacchetti nuovi sono stabilmente in crescita da tempo; difficile dire se ciò dipenda dal fenomeno AI o da AI-assisted coding (c'è comunque tanto [malware](https://blog.pypi.org/posts/2023-09-18-inbound-malware-reporting/))
+    - Analisi per coorti di pacchetti hostati su PyPI 2014-2024: il numero di rilasci è aumentato, ma meno di quanto si pensi (20-50%, stimo dai grafici)
+    - La maggior parte degli update sembra concentrata in pacchetti "AI"
+- **Thoughts**: 
+    - Un pezzo di stretta attualità. Chissa cosa sopravviverà di queste considerazioni tra 2 anni?
+    - Considerazioni: una volta passato questo **boom** torneremo a renderci conto che una libreria affidabile e testata è "foundational" per essere produttivi come sw developer. Le LoC e il numero di pacchetti sono solo proxy parziali
+    - Una delle possibili interpretazioni è che l'AI ci aiuti a mantenere ed aggiornare il software esistente. Gli autori invece suggeriscono che negli ultimi anni stiamo scrivendo tanto software... per utilizzare l'AI stessa. Come riporta il blog "an enormous amount of funding and enthusiasm has flowed into AI".
+
+<details>
+
+##### Highlights
+
+**Developer productivity**. Is AI massively boosting developer productivity across the board? No. We are not seeing indications that developers as a whole are 100x or even 10x more productive. The bumper crop of new packages, or new package updates, just does not exist! Relax. You are not missing a party that literally everyone else was invited to.
+
+"**Are people building an enormous amount of software for using AI?** Yes, yes they are. The jump in update frequency for recent packages about AI is really the headline effect here. The narrowness of this effect is the puzzle that needs to be explained."
+
+</details>
+
 
 
 ## File organization
@@ -63,24 +88,24 @@ A note for my future self, to keep the file consistent:
 ## Template
 Guidelines for each entry
 
+---
 ### [Titolo](...)  
 #### letto il: `data`, autore: Anthropic
 
 > *Perché l'ho letto:* ...
 
-- **Takeaways:** ...
-- **Thoughts:** ...
+- **Takeaways**: ...
+- **Thoughts**: ...
     - aaa
     - bbb
 
 <details>
 
-##### Highligts o Citazioni
+##### Highlights o Citazioni
 Se rilevanti, sennò non usare.
 
 </details>
-
-
+---
 
 ## Terms of use
 
