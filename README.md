@@ -81,6 +81,42 @@ Italian and English are freely mixed here, since it that helps me retain what I 
 
 
 
+### [Avoiding the eye of Sauron](https://blog.southparkcommons.com/p/avoiding-the-eye-of-sauron)  
+#### letto il: `2026-03-27`, autore: Evan Tana (imprenditore: Shopkick, Dropbox)
+
+> *Perché l'ho letto:* Un framework mentale interessante per stare sul mercato oggi
+
+- **Takeaways**:
+    - In parole mie: i grandi "lab" americani presto automatizzeranno tutto ciò che è possibile
+    - Euristica: se il tuo cliente a un team "tech" (="high agency") e stai costruendo "workflow" dovresti iniziare a preoccuparti
+    - Meglio iniziare a chiedersi: cosa è difficile oggi? 
+- **Thoughts**: ...
+    - Aggiungo: quali nuovi casi d'uso sono ora possibili (visto che il software costa meno)
+    - Lo "chassis" è la carta vincente, è lento da costruire e si costruisce nel mondo reale (cosa costruire, relazioni, compliance, strategia), dove gli agenti non arrivano
+    - Conseguenza: la conoscenza di dominio deve essere profondissima
+    - Boring is the new cool? Dove c'è frizione, resistenza al cambiamento o "mal"funzionamento c'è l'opportunità di fare meglio
+    - Provocazione: quindi in un ambiente del genere il nuovo playbook è consulenza -> prodotto? La prima spesso affronta la parte "boring" e "hard to automate" e sembra il nuovo hub R&D del prodotto.
+
+<details>
+
+##### Citazioni
+
+"One conclusion here is that low capability + low agency customers who used to seem “boring” (enterprise-focused, services-heavy, slow procurement) are now relatively attractive. The slog is the moat."
+
+"Strategy can’t wait. Everyone can build fast now. I met two non-technical founders in New York who built fully-fledged products in two days. That’s incredible, but it also means build speed is table stakes."
+
+
+"The old playbook was to build something cool, raise money, figure out the hard stuff later. You had a few years of runway to figure out your strategy. That’s over. The premium is now strategic speed. Technical founders have to lean into the discomfort of answering questions that used to wait until Year 2. The questions about who you’re really building for and where the puck is going now need answers in months, sometimes weeks. You have to be intentional from Day -1."
+
+
+"AI meets robotics, drones, hard tech, science, and biology — and the rules change. A coding agent can’t weld a joint, fly a survey mission, synthesize a compound, or validate a clinical finding. The moats here are real: proprietary hardware, physical distribution, regulatory approval, and years of operational data that can’t be scraped."
+
+
+"Seek out human problems. Selling. Change management. Trust. Compliance. Network effects. Community. The edge is who can get closest to the customer, navigate procurement, and do the messy work of actually getting customers to discover, buy and adopt technology."
+
+</details>
+
+
 ## File organization
 
 A note for my future self, to keep the file consistent:
